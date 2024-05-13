@@ -1,1 +1,7 @@
-premier
+#include<stdio.h>
+int main(){
+  int c=10;
+  int n=15;
+  for(i=5;i<15;i++){
+}
+}
